@@ -1,12 +1,8 @@
-# Object Oriented  Programming - DT-228/2
-## Assignment 1 Semester 1 2016
-
-[![YouTube](http://i.imgur.com/sdjvFzI.jpg)](https://www.youtube.com/watch?v=DhkGO3F-yLo)
-
-### Overview
 This program is desgined to look like an operating system for a spaceship. 
 There is ambient noise playing a loop in the background. 
 I used the processing sound library and ControlP5.
+
+[Video Demonstration](https://www.youtube.com/watch?v=DhkGO3F-yLo "Video Demonstration")
 
 It has 7 window states
 
